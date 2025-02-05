@@ -1,4 +1,4 @@
-# 🚨 Stop Putting Sensitive Information In Public Tools
+# 🚨 Stop Putting Sensitive Information On Public Tools like Wheregoes.com
 
 ## ⚡ Overview
 This project automates the tracking of URLs by scraping and logging them. If a URL contains trigger keywords (e.g., `X`, `Y`), it alerts a designated Discord channel via a webhook.
